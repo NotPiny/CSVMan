@@ -1,0 +1,38 @@
+{
+    "metadata": [
+        "Meta row 1",
+        "Meta row 2",
+        "Meta row 3"
+    ],
+    "data": [
+        "Data row 1|Data row 2|Data row 3",
+        "Data row 4|Data row 5|Data row 6",
+        "Data row 7|Data row 8|Data row 9"
+    ],
+    "columns": [
+        {
+            "name": "Meta row 1",
+            "data": [
+                "Data row 1",
+                "Data row 4",
+                "Data row 7"
+            ]
+        },
+        {
+            "name": "Meta row 2",
+            "data": [
+                "Data row 2",
+                "Data row 5",
+                "Data row 8"
+            ]
+        },
+        {
+            "name": "Meta row 3",
+            "data": [
+                "Data row 3",
+                "Data row 6",
+                "Data row 9"
+            ]
+        }
+    ]
+}

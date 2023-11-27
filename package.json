@@ -1,0 +1,14 @@
+{
+  "name": "@npiny/csvman",
+  "version": "0.0.2",
+  "description": "Manages csv files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "cd tests && node test.js"
+  },
+  "keywords": [
+    "csv"
+  ],
+  "author": "NotPiny",
+  "license": "MIT"
+}
